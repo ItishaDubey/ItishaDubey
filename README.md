@@ -30,9 +30,9 @@ Senior TPM with 12+ years shipping AI programs at scale. Currently leading multi
 
 <div align="center">
 
-![Itisha Dubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItishaDubey&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Itisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItishaDubey&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItishaDubey&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItishaDubey&layout=compact&hide_border=true&theme=transparent&langs_count=6)
 
 </div>
 
