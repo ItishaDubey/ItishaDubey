@@ -28,13 +28,12 @@ Senior TPM with 12+ years shipping AI programs at scale. Currently leading multi
 - **[Kisan Alert](https://github.com/ItishaDubey/kisan-alert)** — WhatsApp-first agricultural advisory system for Indian farmers, built with Gemini 2.5 Flash + Vertex AI RAG + Cloud Run (GDG Bengaluru × Hack2Skill hackathon)
 
 ### GitHub stats
-
+ 
 <div align="center">
-
-![Itisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItishaDubey&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItishaDubey&layout=compact&hide_border=true&theme=transparent&langs_count=6)
-
+<img src="https://github-stats-extended.vercel.app/api?username=ItishaDubey&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github" alt="Itisha's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItishaDubey&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
 </div>
+
 
 ### Connect
 
