@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Itisha Dubey
+
 `Senior TPM & AI Builder`
 
 *Building Everything AI. Turning pipelines into products.*
@@ -13,7 +14,7 @@
 
 Senior TPM with 12+ years shipping AI programs at scale. Currently leading multilingual audio data pipelines at Humyn Labs and building autonomous AI agents on the side. Obsessed with making AI useful for real-world, underserved markets.
 
-- 🔨 **Currently building:** TestCraft - Your Next QA Agent
+- 🔨 **Currently building:** Audio training, validation & annotation tools — quality scoring, anti-spoofing checks, and pre-annotation pipelines for large-scale audio data
 - 📍 **Based in:** Bengaluru, India
 
 ### Tech stack
@@ -22,23 +23,23 @@ Senior TPM with 12+ years shipping AI programs at scale. Currently leading multi
 
 ### Featured projects
 
-- **[LinkedMind AI](https://github.com/ItishaDubey/linkedmind-ai)** — Autonomous LinkedIn content agent built with Claude + Telegram
-- **[Awaaz Vakil](https://itishadubey.me)** — PSTN multilingual voice agent for rural farmers using Sarvam AI + Claude
-- **[HireIQ](https://github.com/ItishaDubey)** — Autonomous job discovery pipeline with Claude + Google Sheets
+- **[LinkedMind AI](https://github.com/ItishaDubey/linkedmind-ai)** — Autonomous LinkedIn content agent built with Claude Sonnet + Telegram + APScheduler
+- **[Awaaz Vakil](https://itishadubey.me)** — PSTN voice agent for rural farmers in Hindi & Kannada, built on Exotel + Sarvam AI + Claude
+- **[Kisan Alert](https://github.com/ItishaDubey/kisan-alert)** — WhatsApp-first agricultural advisory system for Indian farmers, built with Gemini 2.5 Flash + Vertex AI RAG + Cloud Run (GDG Bengaluru × Hack2Skill hackathon)
 
 ### GitHub stats
 
 <div align="center">
 
 ![Itisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItishaDubey&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItishaDubey&layout=compact&hide_border=true&theme=transparent&langs_count=6)
 
 </div>
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/itisha-dubey) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://itishadubey.me) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white)](https://twitter.com/itishadubey15) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ItishaDubey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/itisha-dubey) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://itishadubey.me) [![Topmate](https://img.shields.io/badge/Topmate-FF6B4A?style=flat)](https://topmate.io/itisha_dubey) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white)](https://twitter.com/itishadubey15) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ItishaDubey)
 
 ---
+
 <div align="center"><sub>Built with intention. Shipped with care.</sub></div>
